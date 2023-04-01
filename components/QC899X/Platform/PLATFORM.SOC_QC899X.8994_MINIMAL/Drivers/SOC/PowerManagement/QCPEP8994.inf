@@ -119,7 +119,7 @@ HKR , Parameters        , DisableCpuVdd               , 0x00010001,  0x00000000
 HKR , Parameters        , DisableL2GDHS               , 0x00010001,  0x00000003
 HKR , Parameters        , DisableL2Collapse           , 0x00010001,  0x00000000
 HKR , Parameters        , DisableCCI                  , 0x00010001,  0x00000000
-HKR , Parameters        , EnableProcessorManagement   , 0x00010001,  0x00000001
+HKR , Parameters        , EnableProcessorManagement   , 0x00010001,  0x00000000 ; Disabled due to untested psci on 6P
 HKR , Parameters        , DisablePhaseScaling         , 0x00010001,  0x00000001
 HKR , Parameters        , DisableOfflineNotification  , 0x00010001,  0x00000001
 HKR , Parameters        , DisablePCE                  , 0x00010001,  0x00000000
