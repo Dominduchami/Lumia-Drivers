@@ -1,1 +1,2 @@
+\components\ANYSOC\Hardware\HARDWARE.INPUT.SYNAPTICS_RMI4_F12_WIN10
 \components\QC899X\Platform\MINIMAL_8992
