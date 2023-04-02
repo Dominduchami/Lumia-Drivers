@@ -1,0 +1,1 @@
+\components\QC899X\Platform\MINIMAL_899X
