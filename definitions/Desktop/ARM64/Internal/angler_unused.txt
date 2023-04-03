@@ -1,0 +1,17 @@
+\components\QC899X\Platform\PLATFORM.SOC_QC899X.8994
+\components\QC899X\Platform\PLATFORM.SOC_QC899X.8994_MINIMAL #PEP
+
+\components\QC899X\Platform\PLATFORM.SOC_QC899X.BASE #Needs acpi work beforehand probabably
+\components\QC899X\Platform\PLATFORM.SOC_QC899X.BASE_MINIMAL
+
+\components\QC899X\Platform\PLATFORM.SOC_QC899X.LATE_SOC
+
+
+\components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.BASE
+
+\components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.EXTRAS
+
+\components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.MOBILE_BRIDGE
+\components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.MOBILE_COMPONENTS
+\components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.MOBILE_RIL
+\components\ANYSOC\Support\Desktop\SUPPORT.DESKTOP.MOBILE_RIL_EXTRAS
